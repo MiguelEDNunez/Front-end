@@ -1,0 +1,28 @@
+html {
+	height: 100%;
+}
+
+body {
+	padding-top: 70px;
+	background: url('https://source.unsplash.com/xulIYVIbYIc');
+	background-size: cover;
+	text-align: center;
+	font-family: Lato;
+	color: white;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr {
+	width: 200px;
+}
+
+#content {
+	padding-top: 25%;
+	text-align: center;
+}
+
